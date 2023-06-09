@@ -1,6 +1,6 @@
 [
   {
-    "no": "1",
+    "id": "1",
     "data_id": "#detail770",
     "asal_pemohon": "Universitas Muhamadiyah Surakarta",
     "nama_kegiatan": "Fungsi DPRD dalam Penyusunan APBD Perubahan Tahun 2023",
@@ -23,7 +23,7 @@
     "link_laporan": ""
   },
   {
-    "no": "2",
+    "id": "2",
     "data_id": "#detail769",
     "asal_pemohon": "Universitas 17 Agustus",
     "nama_kegiatan": "Workshop DPRD Kabupaten Boyolali",
@@ -46,7 +46,7 @@
     "link_laporan": ""
   },
   {
-    "no": "3",
+    "id": "3",
     "data_id": "#detail768",
     "asal_pemohon": "Kabupaten Banyumas",
     "nama_kegiatan": "Latsar CPNS Gol. II Kab Banyumas Pola Kerjasama Angkatan ke-88 Periode 4 Juli s.d. 18 September 2023",
@@ -69,7 +69,7 @@
     "link_laporan": ""
   },
   {
-    "no": "4",
+    "id": "4",
     "data_id": "#detail766",
     "asal_pemohon": "Kabupaten Banyumas",
     "nama_kegiatan": "Latsar CPNS Gol. III Kab Banyumas Pola Kerjasama Angkatan ke-87 Periode 20 Juni s.d. 4 September 2023",
@@ -92,7 +92,7 @@
     "link_laporan": ""
   },
   {
-    "no": "5",
+    "id": "5",
     "data_id": "#detail767",
     "asal_pemohon": "Universitas 17 Agustus",
     "nama_kegiatan": "Workshop DPRD Kota Semarang",
@@ -115,7 +115,7 @@
     "link_laporan": ""
   },
   {
-    "no": "6",
+    "id": "6",
     "data_id": "#detail765",
     "asal_pemohon": "Kabupaten Sukoharjo",
     "nama_kegiatan": "Pelatihan Kepemimpinan Administrator Pola Kerjasama Kabupaten Sukoharjo Angkatan Ke-6 Periode 16 Juni s.d 18 Oktober 2023",
@@ -138,7 +138,7 @@
     "link_laporan": ""
   },
   {
-    "no": "7",
+    "id": "7",
     "data_id": "#detail764",
     "asal_pemohon": "Universitas Darul Ulum Islamic Centre Sudirman GUPPI",
     "nama_kegiatan": "Peningkatan Profesionalisme dan Integritas DPRD dalam Memujudkan Pemerintahan yang Baik dan Bersih",
@@ -161,7 +161,7 @@
     "link_laporan": ""
   },
   {
-    "no": "8",
+    "id": "8",
     "data_id": "#detail763",
     "asal_pemohon": "Universitas Darul Ulum Islamic Centre Sudirman GUPPI",
     "nama_kegiatan": "Strategi Kebijakan Anggaran dalam Penyelenggaraan Pemerintahan Daerah di Kabupaten Temanggung",
@@ -184,7 +184,7 @@
     "link_laporan": ""
   },
   {
-    "no": "9",
+    "id": "9",
     "data_id": "#detail762",
     "asal_pemohon": "Universitas Semarang",
     "nama_kegiatan": "Workshop DPRD Kabupaten Kendal",
@@ -207,7 +207,7 @@
     "link_laporan": ""
   },
   {
-    "no": "10",
+    "id": "10",
     "data_id": "#detail760",
     "asal_pemohon": "Universitas 17 Agustus",
     "nama_kegiatan": "Bimbingan Teknis DPRD Kabupaten Tegal",
@@ -230,7 +230,7 @@
     "link_laporan": ""
   },
   {
-    "no": "11",
+    "id": "11",
     "data_id": "#detail759",
     "asal_pemohon": "Universitas 17 Agustus",
     "nama_kegiatan": "Bimbingan Teknis DPRD Kabupaten Rembang",
@@ -253,7 +253,7 @@
     "link_laporan": ""
   },
   {
-    "no": "12",
+    "id": "12",
     "data_id": "#detail758",
     "asal_pemohon": "Kabupaten Banyumas",
     "nama_kegiatan": "Latsar CPNS Gol. II Kab. Banyumas Pola Kerjasama Angkatan ke-85 Periode 8 Juni s.d. 25 Agustus 2023",
@@ -276,7 +276,7 @@
     "link_laporan": ""
   },
   {
-    "no": "13",
+    "id": "13",
     "data_id": "#detail757",
     "asal_pemohon": "Universitas 17 Agustus",
     "nama_kegiatan": "Bimbingan Teknis DPRD Kabupaten Demak",
@@ -299,7 +299,7 @@
     "link_laporan": ""
   },
   {
-    "no": "14",
+    "id": "14",
     "data_id": "#detail756",
     "asal_pemohon": "Partai Nasdem",
     "nama_kegiatan": "WORKSHOP Fraksi Nasdem DPRD Provinsi, Kabupaten dan Kota Se- Jawa Tengah Dengan Tema \u201cSinergitas Partai Politik Dalam Pembangunan Daerah\u201d",
@@ -322,7 +322,7 @@
     "link_laporan": "https://simitra.bpsdmd.jatengprov.go.id/assets/file_laporan/file_1684831879.pdf"
   },
   {
-    "no": "15",
+    "id": "15",
     "data_id": "#detail754",
     "asal_pemohon": "Kabupaten Banyumas",
     "nama_kegiatan": "Latsar CPNS Gol. III Kab. Banyumas Pola Kerjasama Angkatan ke-84 Periode 24 Mei s.d. 10 Agustus 2023",
@@ -345,7 +345,7 @@
     "link_laporan": ""
   },
   {
-    "no": "16",
+    "id": "16",
     "data_id": "#detail755",
     "asal_pemohon": "Universitas 17 Agustus",
     "nama_kegiatan": "Workshop DPRD Kabupaten Boyolali",
@@ -368,7 +368,7 @@
     "link_laporan": "https://simitra.bpsdmd.jatengprov.go.id/assets/file_laporan/file_1683615507.pdf"
   },
   {
-    "no": "17",
+    "id": "17",
     "data_id": "#detail753",
     "asal_pemohon": "Universitas Islam Negeri Profesor Kiai Haji Saifuddin Zuhri Purwokerto",
     "nama_kegiatan": "Workshop DPRD Kabupaten Purbalingga",
@@ -391,7 +391,7 @@
     "link_laporan": "https://simitra.bpsdmd.jatengprov.go.id/assets/file_laporan/file_1685507144.pdf"
   },
   {
-    "no": "18",
+    "id": "18",
     "data_id": "#detail752",
     "asal_pemohon": "Universitas 17 Agustus",
     "nama_kegiatan": "Workshop DPRD Kabupaten Sragen",
@@ -414,7 +414,7 @@
     "link_laporan": ""
   },
   {
-    "no": "19",
+    "id": "19",
     "data_id": "#detail751",
     "asal_pemohon": "Kabupaten Grobogan",
     "nama_kegiatan": "Pelatihan Kepemimpinan Pengawas Angkatan VI",
@@ -437,7 +437,7 @@
     "link_laporan": ""
   },
   {
-    "no": "20",
+    "id": "20",
     "data_id": "#detail750",
     "asal_pemohon": "Kabupaten Banyumas",
     "nama_kegiatan": "Latsar CPNS Gol. II Kab. Banyumas Pola Kerjasama Angkatan ke-78 Periode 12 Mei s.d. 1 Agustus 2023",
@@ -460,7 +460,7 @@
     "link_laporan": ""
   },
   {
-    "no": "21",
+    "id": "21",
     "data_id": "#detail749",
     "asal_pemohon": "PPP",
     "nama_kegiatan": "WORKSHOP FRAKSI PARTAI PERSATUAN PEMBANGUNAN DPRD PROVINSI, KABUPATEN DAN KOTA SE-JAWA TENGAH",
@@ -483,7 +483,7 @@
     "link_laporan": ""
   },
   {
-    "no": "22",
+    "id": "22",
     "data_id": "#detail748",
     "asal_pemohon": "Universitas Semarang",
     "nama_kegiatan": "Workshop DPRD Kab. Kendal",
@@ -506,7 +506,7 @@
     "link_laporan": "https://simitra.bpsdmd.jatengprov.go.id/assets/file_laporan/file_1684401615.pdf"
   },
   {
-    "no": "23",
+    "id": "23",
     "data_id": "#detail746",
     "asal_pemohon": "Kabupaten Jepara",
     "nama_kegiatan": "Pelatihan Teknis Dasar Perencanaan Pembangunan Daerah Kabupaten Jepara Pola Kerjasama Periode 3-19 Mei 2023",
@@ -529,7 +529,7 @@
     "link_laporan": ""
   },
   {
-    "no": "24",
+    "id": "24",
     "data_id": "#detail747",
     "asal_pemohon": "Universitas 17 Agustus",
     "nama_kegiatan": "Bimbingan Teknis DPRD Kabupaten Grobogan",
@@ -552,7 +552,7 @@
     "link_laporan": ""
   },
   {
-    "no": "25",
+    "id": "25",
     "data_id": "#detail745",
     "asal_pemohon": "Kabupaten Banyumas",
     "nama_kegiatan": "Latsar CPNS Gol. III Kab. Banyumas Pola Kerjasama Angkatan ke-71 Periode 5 Mei s.d. 25 Juli 2023",
@@ -575,7 +575,7 @@
     "link_laporan": ""
   },
   {
-    "no": "26",
+    "id": "26",
     "data_id": "#detail744",
     "asal_pemohon": "Universitas 17 Agustus",
     "nama_kegiatan": "Workshop DPRD Kabupaten Sragen",
@@ -598,7 +598,7 @@
     "link_laporan": ""
   },
   {
-    "no": "27",
+    "id": "27",
     "data_id": "#detail743",
     "asal_pemohon": "Universitas 17 Agustus",
     "nama_kegiatan": "Bimbingan Teknis DPRD Kota Tegal",
@@ -621,7 +621,7 @@
     "link_laporan": ""
   },
   {
-    "no": "28",
+    "id": "28",
     "data_id": "#detail742",
     "asal_pemohon": "Universitas Darul Ulum Islamic Centre Sudirman GUPPI",
     "nama_kegiatan": "Menyikapi Laporan Keuangan Pemerintah Daerah dan Peran DPRD dalam Perencanaan Pembangunan Daerah serta Persiapan Menghadapi Pemilu 2024",
@@ -644,7 +644,7 @@
     "link_laporan": "https://simitra.bpsdmd.jatengprov.go.id/assets/file_laporan/file_1683708814.pdf"
   },
   {
-    "no": "29",
+    "id": "29",
     "data_id": "#detail740",
     "asal_pemohon": "Kabupaten Banyumas",
     "nama_kegiatan": "Latsar CPNS Gol. II Kab. Banyumas Pola Kerjasama Angkatan ke-69 Periode 17 April s.d. 17 Juli 2023",
@@ -667,7 +667,7 @@
     "link_laporan": ""
   },
   {
-    "no": "30",
+    "id": "30",
     "data_id": "#detail741",
     "asal_pemohon": "Universitas 17 Agustus",
     "nama_kegiatan": "Bimbingan Teknis DPRD Kabupaten Pati",
@@ -690,7 +690,7 @@
     "link_laporan": ""
   },
   {
-    "no": "31",
+    "id": "31",
     "data_id": "#detail738",
     "asal_pemohon": "Universitas 17 Agustus",
     "nama_kegiatan": "Workshop DPRD Kabupaten Sukoharjo",
@@ -713,7 +713,7 @@
     "link_laporan": "https://simitra.bpsdmd.jatengprov.go.id/assets/file_laporan/file_1683177689.pdf"
   },
   {
-    "no": "32",
+    "id": "32",
     "data_id": "#detail739",
     "asal_pemohon": "Universitas 17 Agustus",
     "nama_kegiatan": "Workshop DPRD Kabupaten Boyolali",
@@ -736,7 +736,7 @@
     "link_laporan": "https://simitra.bpsdmd.jatengprov.go.id/assets/file_laporan/file_1683177774.pdf"
   },
   {
-    "no": "33",
+    "id": "33",
     "data_id": "#detail737",
     "asal_pemohon": "Universitas Wahid Hasyim",
     "nama_kegiatan": "BIMBINGAN TEKNIS DPRD KAB.KUDUS",
@@ -759,7 +759,7 @@
     "link_laporan": "https://simitra.bpsdmd.jatengprov.go.id/assets/file_laporan/file_1680085275.pdf"
   },
   {
-    "no": "34",
+    "id": "34",
     "data_id": "#detail736",
     "asal_pemohon": "Universitas 17 Agustus",
     "nama_kegiatan": "Bimbingan Teknis DPRD Kota Salatiga",
@@ -782,7 +782,7 @@
     "link_laporan": "https://simitra.bpsdmd.jatengprov.go.id/assets/file_laporan/file_1683177830.pdf"
   },
   {
-    "no": "35",
+    "id": "35",
     "data_id": "#detail734",
     "asal_pemohon": "Kabupaten Sukoharjo",
     "nama_kegiatan": "Pelatihan Kepemimpinan Pengawas Pola Kerjasama Kabupaten Sukoharjo Angkatan ke-3 Periode 17 April s.d 30 Agustus 2023",
@@ -805,7 +805,7 @@
     "link_laporan": ""
   },
   {
-    "no": "36",
+    "id": "36",
     "data_id": "#detail735",
     "asal_pemohon": "Universitas STIKUBANK",
     "nama_kegiatan": "Penyusunan rekomendasi DPRD terhadap LKPJ Kepala Daerah dan Komunikasi Politik dalam menghadapi Pemilu 2024",
@@ -828,7 +828,7 @@
     "link_laporan": "https://simitra.bpsdmd.jatengprov.go.id/assets/file_laporan/file_1679634711.pdf"
   },
   {
-    "no": "37",
+    "id": "37",
     "data_id": "#detail733",
     "asal_pemohon": "Kabupaten Banyumas",
     "nama_kegiatan": "Latsar CPNS Gol. III Kab. Banyumas Pola Kerjasama Angkatan ke-67 Periode 10 April s.d. 10 Juli 2023",
@@ -851,7 +851,7 @@
     "link_laporan": ""
   },
   {
-    "no": "38",
+    "id": "38",
     "data_id": "#detail731",
     "asal_pemohon": "Kabupaten Banyumas",
     "nama_kegiatan": "Latsar CPNS Gol. II Kab. Banyumas Pola Kerjasama Angkatan ke-62 Periode 30 Maret s.d. 30 Juni 2023",
@@ -874,7 +874,7 @@
     "link_laporan": ""
   },
   {
-    "no": "39",
+    "id": "39",
     "data_id": "#detail727",
     "asal_pemohon": "Universitas 17 Agustus",
     "nama_kegiatan": "Bimbingan Teknis DPRD Kabupaten Pemalang",
@@ -897,7 +897,7 @@
     "link_laporan": "https://simitra.bpsdmd.jatengprov.go.id/assets/file_laporan/file_1683177605.pdf"
   },
   {
-    "no": "40",
+    "id": "40",
     "data_id": "#detail728",
     "asal_pemohon": "Universitas 17 Agustus",
     "nama_kegiatan": "Workshop DPRD Kabupaten Semarang",
@@ -920,7 +920,7 @@
     "link_laporan": "https://simitra.bpsdmd.jatengprov.go.id/assets/file_laporan/file_1683177472.pdf"
   },
   {
-    "no": "41",
+    "id": "41",
     "data_id": "#detail729",
     "asal_pemohon": "Kabupaten Blora",
     "nama_kegiatan": "Pelatihan Teknis Akuntansi Berbasis Akrual Kabupaten Blora Pola Kerjasama Periode 22 s.d. 25 Mei 2023",
@@ -943,7 +943,7 @@
     "link_laporan": ""
   },
   {
-    "no": "42",
+    "id": "42",
     "data_id": "#detail730",
     "asal_pemohon": "Universitas Muhamadiyah Surakarta",
     "nama_kegiatan": "Implementasi Peraturan Pemerintah No. 1 Tahun 2023 tentang Hak Keuangan dan Administrasi Pimpinan dan Anggota DPRD",
@@ -966,7 +966,7 @@
     "link_laporan": "https://simitra.bpsdmd.jatengprov.go.id/assets/file_laporan/file_1679452498.pdf"
   },
   {
-    "no": "43",
+    "id": "43",
     "data_id": "#detail725",
     "asal_pemohon": "Universitas 17 Agustus",
     "nama_kegiatan": "Workshop DPRD Kabupaten Sragen",
@@ -989,7 +989,7 @@
     "link_laporan": ""
   },
   {
-    "no": "44",
+    "id": "44",
     "data_id": "#detail726",
     "asal_pemohon": "Kabupaten Banyumas",
     "nama_kegiatan": "Latsar CPNS Gol. III Kab. Banyumas Pola Kerjasama Angkatan ke-56 Periode 21 Maret s.d. 22 Juni 2023",
@@ -1012,7 +1012,7 @@
     "link_laporan": ""
   },
   {
-    "no": "45",
+    "id": "45",
     "data_id": "#detail724",
     "asal_pemohon": "Universitas 17 Agustus",
     "nama_kegiatan": "Bimbingan Teknis DPRD Kota Tegal",
@@ -1035,7 +1035,7 @@
     "link_laporan": ""
   },
   {
-    "no": "46",
+    "id": "46",
     "data_id": "#detail723",
     "asal_pemohon": "Kabupaten Banyumas",
     "nama_kegiatan": "Latsar CPNS Gol. II Kab. Banyumas Pola Kerjasama Angkatan ke-49 Periode 16 Maret s.d. 15 Juni 2023",
@@ -1058,7 +1058,7 @@
     "link_laporan": ""
   },
   {
-    "no": "47",
+    "id": "47",
     "data_id": "#detail722",
     "asal_pemohon": "Universitas 17 Agustus",
     "nama_kegiatan": "Bimbingan Teknis DPRD Kabupaten Pati",
@@ -1081,7 +1081,7 @@
     "link_laporan": ""
   },
   {
-    "no": "48",
+    "id": "48",
     "data_id": "#detail721",
     "asal_pemohon": "Universitas Semarang",
     "nama_kegiatan": "Bimbingan Teknis DPRD Kabupaten Tegal",
@@ -1104,7 +1104,7 @@
     "link_laporan": "https://simitra.bpsdmd.jatengprov.go.id/assets/file_laporan/file_1684400449.pdf"
   },
   {
-    "no": "49",
+    "id": "49",
     "data_id": "#detail720",
     "asal_pemohon": "Hanura",
     "nama_kegiatan": "Bimbingan Teknis  DPRD Kabupaten/Kota Se-Jawa Tengah Dari Partai HANURA",
@@ -1127,7 +1127,7 @@
     "link_laporan": ""
   },
   {
-    "no": "50",
+    "id": "50",
     "data_id": "#detail716",
     "asal_pemohon": "Kabupaten Wonogiri",
     "nama_kegiatan": "Latsar CPNS Gol. II Kab. Wonogiri Pola Kerjasama Angkatan ke-34 Periode 21 Februari s.d. 10 Juni 2023",
@@ -1150,7 +1150,7 @@
     "link_laporan": ""
   },
   {
-    "no": "51",
+    "id": "51",
     "data_id": "#detail717",
     "asal_pemohon": "Kabupaten Wonogiri",
     "nama_kegiatan": "Latsar CPNS Gol. II Kab. Wonogiri Pola Kerjasama Angkatan ke-42 Periode 27 Februari s.d. 17 Juni 2023",
@@ -1173,7 +1173,7 @@
     "link_laporan": ""
   },
   {
-    "no": "52",
+    "id": "52",
     "data_id": "#detail718",
     "asal_pemohon": "Kabupaten Wonogiri",
     "nama_kegiatan": "Latsar CPNS Gol. II Kab. Wonogiri Pola Kerjasama Angkatan ke-43 Periode 1 Maret s.d. 24 Juni 2023",
@@ -1196,7 +1196,7 @@
     "link_laporan": ""
   },
   {
-    "no": "53",
+    "id": "53",
     "data_id": "#detail719",
     "asal_pemohon": "Kabupaten Wonogiri",
     "nama_kegiatan": "Latsar CPNS Gol. III/II Kab. Wonogiri Pola Kerjasama Angkatan ke-47 Periode 13 Maret s.d. 8 Juli 2023",
@@ -1219,7 +1219,7 @@
     "link_laporan": ""
   },
   {
-    "no": "54",
+    "id": "54",
     "data_id": "#detail713",
     "asal_pemohon": "Universitas Semarang",
     "nama_kegiatan": "Workshop DPRD Kabupaten Jepara",
@@ -1242,7 +1242,7 @@
     "link_laporan": "https://simitra.bpsdmd.jatengprov.go.id/assets/file_laporan/file_1684397867.pdf"
   },
   {
-    "no": "55",
+    "id": "55",
     "data_id": "#detail714",
     "asal_pemohon": "Universitas Semarang",
     "nama_kegiatan": "Workshop DPRD Kabupaten Banyumas",
@@ -1265,7 +1265,7 @@
     "link_laporan": "https://simitra.bpsdmd.jatengprov.go.id/assets/file_laporan/file_1684396413.pdf"
   },
   {
-    "no": "56",
+    "id": "56",
     "data_id": "#detail711",
     "asal_pemohon": "Kabupaten Banyumas",
     "nama_kegiatan": "Latsar CPNS Gol. III Kab. Banyumas Pola Kerjasama Angkatan ke-44 Periode 6 Maret s.d. 8 Juni 2023",
@@ -1288,7 +1288,7 @@
     "link_laporan": ""
   },
   {
-    "no": "57",
+    "id": "57",
     "data_id": "#detail712",
     "asal_pemohon": "PKB",
     "nama_kegiatan": "Workshop Fraksi PKB DPRD Provinsi, Kabipaten dan Kota Se-Jawa Tengah",
@@ -1311,7 +1311,7 @@
     "link_laporan": ""
   },
   {
-    "no": "58",
+    "id": "58",
     "data_id": "#detail709",
     "asal_pemohon": "Universitas 17 Agustus",
     "nama_kegiatan": "Bimbingan Teknis DPRD Kabupaten Grobogan",
@@ -1334,7 +1334,7 @@
     "link_laporan": ""
   },
   {
-    "no": "59",
+    "id": "59",
     "data_id": "#detail710",
     "asal_pemohon": "Universitas AKI",
     "nama_kegiatan": "Bimbingan Teknis DPRD Kabupaten Purbalingga",
@@ -1357,7 +1357,7 @@
     "link_laporan": "https://simitra.bpsdmd.jatengprov.go.id/assets/file_laporan/file_1676297997.pdf"
   },
   {
-    "no": "60",
+    "id": "60",
     "data_id": "#detail704",
     "asal_pemohon": "Universitas Semarang",
     "nama_kegiatan": "Workshop DPRD Kabupaten Kendal",
@@ -1380,7 +1380,7 @@
     "link_laporan": "https://simitra.bpsdmd.jatengprov.go.id/assets/file_laporan/file_1684395084.pdf"
   },
   {
-    "no": "61",
+    "id": "61",
     "data_id": "#detail705",
     "asal_pemohon": "Universitas Semarang",
     "nama_kegiatan": "Workshop DPRD Kabupaten Wonosobo",
@@ -1403,7 +1403,7 @@
     "link_laporan": "https://simitra.bpsdmd.jatengprov.go.id/assets/file_laporan/file_1684395010.pdf"
   },
   {
-    "no": "62",
+    "id": "62",
     "data_id": "#detail706",
     "asal_pemohon": "Kabupaten Purbalingga",
     "nama_kegiatan": "Latsar CPNS Gol. III/II Kab. Purbalingga Pola Kerjasama Angkatan ke-23 Periode 15 Februari s.d. 13 Mei 2023",
@@ -1426,7 +1426,7 @@
     "link_laporan": ""
   },
   {
-    "no": "63",
+    "id": "63",
     "data_id": "#detail707",
     "asal_pemohon": "Kabupaten Purbalingga",
     "nama_kegiatan": "Latsar CPNS Gol. III/II Kab. Purbalingga Pola Kerjasama Angkatan ke-80 Periode 15 Mei s.d. 5 Agustus 2023",
@@ -1449,7 +1449,7 @@
     "link_laporan": ""
   },
   {
-    "no": "64",
+    "id": "64",
     "data_id": "#detail708",
     "asal_pemohon": "Kabupaten Purbalingga",
     "nama_kegiatan": "Latsar CPNS Gol. III/II Kab. Purbalingga Pola Kerjasama Angkatan ke-91 Periode 7 Agustus s.d. 28 Oktober 2023",
@@ -1472,7 +1472,7 @@
     "link_laporan": ""
   },
   {
-    "no": "65",
+    "id": "65",
     "data_id": "#detail702",
     "asal_pemohon": "Kota Semarang",
     "nama_kegiatan": "Pelatihan Teknis Sistem Akuntabilitas Kinerja Instansi Pemerintah (SAKIP) Pola Kerjasama",
@@ -1495,7 +1495,7 @@
     "link_laporan": "https://simitra.bpsdmd.jatengprov.go.id/assets/file_laporan/file_1681107562.pdf"
   },
   {
-    "no": "66",
+    "id": "66",
     "data_id": "#detail703",
     "asal_pemohon": "Kabupaten Banyumas",
     "nama_kegiatan": "Latsar CPNS Gol. II Kab. Banyumas Pola Kerjasama Angkatan ke-41 Periode 27 Februari s.d. 29 Mei 2023",
@@ -1518,7 +1518,7 @@
     "link_laporan": ""
   },
   {
-    "no": "67",
+    "id": "67",
     "data_id": "#detail700",
     "asal_pemohon": "Kabupaten Brebes",
     "nama_kegiatan": "Pelatihan Teknis Perbendaharaan Kabupaten Brebes Pola Kerjasama Periode 08 s.d. 16 Mei 2023",
@@ -1541,7 +1541,7 @@
     "link_laporan": ""
   },
   {
-    "no": "68",
+    "id": "68",
     "data_id": "#detail701",
     "asal_pemohon": "Universitas 17 Agustus",
     "nama_kegiatan": "Bimbingan Teknis DPRD Kabupaten Rembang",
@@ -1564,7 +1564,7 @@
     "link_laporan": ""
   },
   {
-    "no": "69",
+    "id": "69",
     "data_id": "#detail699",
     "asal_pemohon": "Kota Pekalongan",
     "nama_kegiatan": "Pelatihan Kepemimpinan Pengawas Kota Pekalongan Pola Kerjasama Angkatan ke IV Periode 2 Mei - 31 Agustus 2023",
@@ -1587,7 +1587,7 @@
     "link_laporan": ""
   },
   {
-    "no": "70",
+    "id": "70",
     "data_id": "#detail697",
     "asal_pemohon": "Universitas 17 Agustus",
     "nama_kegiatan": "Workshop DPRD Kota Semarang",
@@ -1610,7 +1610,7 @@
     "link_laporan": ""
   },
   {
-    "no": "71",
+    "id": "71",
     "data_id": "#detail696",
     "asal_pemohon": "Golkar",
     "nama_kegiatan": "Workshop Fraksi Golkar DPRD Provinsi, Kabupaten dan Kota Se-Jawa Tengah",
@@ -1633,7 +1633,7 @@
     "link_laporan": ""
   },
   {
-    "no": "72",
+    "id": "72",
     "data_id": "#detail690",
     "asal_pemohon": "Kota Salatiga",
     "nama_kegiatan": "Latsar CPNS Gol. III/II Kota Salatiga Pola Kerjasama Angkatan ke-72 Periode 5 Mei s.d. 29 Juli 2023",
@@ -1656,7 +1656,7 @@
     "link_laporan": ""
   },
   {
-    "no": "73",
+    "id": "73",
     "data_id": "#detail691",
     "asal_pemohon": "Kota Salatiga",
     "nama_kegiatan": "Latsar CPNS Gol. III/II Kota Salatiga Pola Kerjasama Angkatan ke-86 Periode 13 Juni s.d. 26 Agustus 2023",
@@ -1679,7 +1679,7 @@
     "link_laporan": ""
   },
   {
-    "no": "74",
+    "id": "74",
     "data_id": "#detail692",
     "asal_pemohon": "Universitas 17 Agustus",
     "nama_kegiatan": "Bimbingan Teknis DPRD Kabupaten Demak",
@@ -1702,7 +1702,7 @@
     "link_laporan": ""
   },
   {
-    "no": "75",
+    "id": "75",
     "data_id": "#detail693",
     "asal_pemohon": "Universitas 17 Agustus",
     "nama_kegiatan": "Bimbingan Teknis DPRD Kabupaten Pemalang",
@@ -1725,7 +1725,7 @@
     "link_laporan": ""
   },
   {
-    "no": "76",
+    "id": "76",
     "data_id": "#detail694",
     "asal_pemohon": "Kabupaten Banyumas",
     "nama_kegiatan": "Latsar CPNS Gol. III Kab. Banyumas Pola Kerjasama Angkatan ke-29 Periode 20 Februari s.d. 22 Mei 2023",
@@ -1748,7 +1748,7 @@
     "link_laporan": ""
   },
   {
-    "no": "77",
+    "id": "77",
     "data_id": "#detail695",
     "asal_pemohon": "Universitas 17 Agustus",
     "nama_kegiatan": "Workshop DPRD Kabupaten Karanganyar",
@@ -1771,7 +1771,7 @@
     "link_laporan": ""
   },
   {
-    "no": "78",
+    "id": "78",
     "data_id": "#detail689",
     "asal_pemohon": "Universitas 17 Agustus",
     "nama_kegiatan": "Workshop DPRD Kabupaten Boyolali",
@@ -1794,7 +1794,7 @@
     "link_laporan": ""
   },
   {
-    "no": "79",
+    "id": "79",
     "data_id": "#detail679",
     "asal_pemohon": "Kota Semarang",
     "nama_kegiatan": "Latsar CPNS Gol. III Kota Semarang Pola Kerjasama Angkatan ke-22 Periode 14 Februari s.d. 9 Mei 2023",
@@ -1817,7 +1817,7 @@
     "link_laporan": ""
   },
   {
-    "no": "80",
+    "id": "80",
     "data_id": "#detail680",
     "asal_pemohon": "Kota Semarang",
     "nama_kegiatan": "Latsar CPNS Gol. III Kota Semarang Pola Kerjasama Angkatan ke-28 Periode 20 Februari s.d. 17 Mei 2023",
@@ -1840,7 +1840,7 @@
     "link_laporan": ""
   },
   {
-    "no": "81",
+    "id": "81",
     "data_id": "#detail681",
     "asal_pemohon": "Kota Semarang",
     "nama_kegiatan": "Latsar CPNS Gol. III Kota Semarang Pola Kerjasama Angkatan ke-40 Periode 27 Februari s.d. 26 Mei 2023",
@@ -1863,7 +1863,7 @@
     "link_laporan": ""
   },
   {
-    "no": "82",
+    "id": "82",
     "data_id": "#detail682",
     "asal_pemohon": "Kota Semarang",
     "nama_kegiatan": "Latsar CPNS Gol. II Kota Semarang Pola Kerjasama Angkatan ke-48 Periode 14 Maret s.d. 12 Juni 2023",
@@ -1886,7 +1886,7 @@
     "link_laporan": ""
   },
   {
-    "no": "83",
+    "id": "83",
     "data_id": "#detail683",
     "asal_pemohon": "Kota Semarang",
     "nama_kegiatan": "Latsar CPNS Gol. II Kota Semarang Pola Kerjasama Angkatan ke-55 Periode 17 Maret s.d. 20 Juni 2023",
@@ -1909,7 +1909,7 @@
     "link_laporan": ""
   },
   {
-    "no": "84",
+    "id": "84",
     "data_id": "#detail684",
     "asal_pemohon": "Kota Semarang",
     "nama_kegiatan": "Latsar CPNS Gol. II Kota Semarang Pola Kerjasama Angkatan ke-61 Periode 29 Maret s.d. 28 Juni 2023",
@@ -1932,7 +1932,7 @@
     "link_laporan": ""
   },
   {
-    "no": "85",
+    "id": "85",
     "data_id": "#detail685",
     "asal_pemohon": "Kota Semarang",
     "nama_kegiatan": "Latsar CPNS Gol. II Kota Semarang Pola Kerjasama Angkatan ke-68 Periode 11 April s.d. 10 Juli 2023",
@@ -1955,7 +1955,7 @@
     "link_laporan": ""
   },
   {
-    "no": "86",
+    "id": "86",
     "data_id": "#detail686",
     "asal_pemohon": "Kota Semarang",
     "nama_kegiatan": "Latsar CPNS Gol. II Kota Semarang Pola Kerjasama Angkatan ke-70 Periode 18 April s.d. 18 Juli 2023",
@@ -1978,7 +1978,7 @@
     "link_laporan": ""
   },
   {
-    "no": "87",
+    "id": "87",
     "data_id": "#detail687",
     "asal_pemohon": "Kota Semarang",
     "nama_kegiatan": "Latsar CPNS Gol. II Kota Semarang Pola Kerjasama Angkatan ke-73 Periode 5 Mei s.d. 31 Juli 2023",
@@ -2001,7 +2001,7 @@
     "link_laporan": ""
   },
   {
-    "no": "88",
+    "id": "88",
     "data_id": "#detail688",
     "asal_pemohon": "Kota Semarang",
     "nama_kegiatan": "Latsar CPNS Gol. II Kota Semarang Pola Kerjasama Angkatan ke-79 Periode 12 Mei s.d. 8 Agustus 2023",
@@ -2024,7 +2024,7 @@
     "link_laporan": ""
   },
   {
-    "no": "89",
+    "id": "89",
     "data_id": "#detail678",
     "asal_pemohon": "Kota Surakarta",
     "nama_kegiatan": "Pelatihan Kepemimpinan Pengawas Angkatan V",
@@ -2047,7 +2047,7 @@
     "link_laporan": ""
   },
   {
-    "no": "90",
+    "id": "90",
     "data_id": "#detail675",
     "asal_pemohon": "Universitas STIKUBANK",
     "nama_kegiatan": "Implementasi Permendagri Nomor 18 Tahun 2020 Tentang Peraturan Pelaksanaan Peraturan Pemerintah Nomor 13 Tahun 2019 Tentang Laporan dan Evaluasi Penyelenggaraan Pemerintahan",
@@ -2070,7 +2070,7 @@
     "link_laporan": ""
   },
   {
-    "no": "91",
+    "id": "91",
     "data_id": "#detail676",
     "asal_pemohon": "Kabupaten Jepara",
     "nama_kegiatan": "Pelatihan Teknis Dasar Manajemen Bencana Kabupaten Jepara Pola Kerjasama Periode 15 Februari - 3 Maret 2023",
@@ -2093,7 +2093,7 @@
     "link_laporan": "https://simitra.bpsdmd.jatengprov.go.id/assets/file_laporan/file_1678156440.pdf"
   },
   {
-    "no": "92",
+    "id": "92",
     "data_id": "#detail677",
     "asal_pemohon": "Kabupaten Banyumas",
     "nama_kegiatan": "Latsar CPNS Gol. II Kab. Banyumas Pola Kerjasama Angkatan ke-19 Periode 13 Februari s.d. 11 Mei 2023",
@@ -2116,7 +2116,7 @@
     "link_laporan": "https://simitra.bpsdmd.jatengprov.go.id/assets/file_laporan/file_1684806129.pdf"
   },
   {
-    "no": "93",
+    "id": "93",
     "data_id": "#detail674",
     "asal_pemohon": "Universitas Wahid Hasyim",
     "nama_kegiatan": "Bimbingan Teknis DPRD Kabupaten Kudus",
@@ -2139,7 +2139,7 @@
     "link_laporan": "https://simitra.bpsdmd.jatengprov.go.id/assets/file_laporan/file_1677850914.pdf"
   },
   {
-    "no": "94",
+    "id": "94",
     "data_id": "#detail673",
     "asal_pemohon": "Kota Semarang",
     "nama_kegiatan": "Pelatihan Kepemimpinan Administrator (PKA) Kota Semarang Pola Kerjasama Angkatan ke-1 Periode 19 Januari s/d 31 Mei 2023",
@@ -2162,7 +2162,7 @@
     "link_laporan": ""
   },
   {
-    "no": "95",
+    "id": "95",
     "data_id": "#detail671",
     "asal_pemohon": "Kabupaten Wonogiri",
     "nama_kegiatan": "Latsar CPNS Gol. III Kab. Wonogiri Pola Kerjasama Angkatan ke-21 Periode 13 Februari s.d. 27 Mei 2023",
@@ -2185,7 +2185,7 @@
     "link_laporan": ""
   },
   {
-    "no": "96",
+    "id": "96",
     "data_id": "#detail669",
     "asal_pemohon": "Universitas 17 Agustus",
     "nama_kegiatan": "Bimbingan Teknis DPRD Kota Pekalongan",
@@ -2208,7 +2208,7 @@
     "link_laporan": ""
   },
   {
-    "no": "97",
+    "id": "97",
     "data_id": "#detail670",
     "asal_pemohon": "Kabupaten Wonogiri",
     "nama_kegiatan": "Latsar CPNS Gol. III Kab. Wonogiri Pola Kerjasama Angkatan ke-13 Periode 6 Februari s.d. 13 Mei 2023",
@@ -2231,7 +2231,7 @@
     "link_laporan": ""
   },
   {
-    "no": "98",
+    "id": "98",
     "data_id": "#detail667",
     "asal_pemohon": "Kabupaten Cilacap",
     "nama_kegiatan": "Latsar CPNS Gol. III/II Kab. Cilacap Pola Kerjasama Angkatan ke-50 Periode 16 Maret s.d. 24 Juni 2023",
@@ -2254,7 +2254,7 @@
     "link_laporan": ""
   },
   {
-    "no": "99",
+    "id": "99",
     "data_id": "#detail668",
     "asal_pemohon": "Kabupaten Cilacap",
     "nama_kegiatan": "Latsar CPNS Gol. II Kab. Cilacap Pola Kerjasama Angkatan ke-46 Periode 13 Maret s.d. 17 Juni 2023",
@@ -2277,7 +2277,7 @@
     "link_laporan": ""
   },
   {
-    "no": "100",
+    "id": "100",
     "data_id": "#detail664",
     "asal_pemohon": "Kabupaten Cilacap",
     "nama_kegiatan": "Latsar CPNS Gol. II Kab. Cilacap Pola Kerjasama Angkatan ke-45 Periode 9 Maret s.d. 10 Juni 2023",
@@ -2300,7 +2300,7 @@
     "link_laporan": ""
   },
   {
-    "no": "101",
+    "id": "101",
     "data_id": "#detail665",
     "asal_pemohon": "Kabupaten Cilacap",
     "nama_kegiatan": "Latsar CPNS Gol. II Kab. Cilacap Pola Kerjasama Angkatan ke-39 Periode 24 Februari s.d. 27 Mei 2023",
@@ -2323,7 +2323,7 @@
     "link_laporan": ""
   },
   {
-    "no": "102",
+    "id": "102",
     "data_id": "#detail666",
     "asal_pemohon": "Kabupaten Cilacap",
     "nama_kegiatan": "Latsar CPNS Gol. II Kab. Cilacap Pola Kerjasama Angkatan ke-20 Periode 13 Februari s.d. 13 Mei 2023",
@@ -2346,7 +2346,7 @@
     "link_laporan": ""
   },
   {
-    "no": "103",
+    "id": "103",
     "data_id": "#detail662",
     "asal_pemohon": "Kabupaten Banyumas",
     "nama_kegiatan": "Latsar CPNS Gol. III Kab. Banyumas Pola Kerjasama Angkatan ke-12 Periode 1 Februari s.d. 17 April 2023",
@@ -2369,7 +2369,7 @@
     "link_laporan": "https://simitra.bpsdmd.jatengprov.go.id/assets/file_laporan/file_1684811117.pdf"
   },
   {
-    "no": "104",
+    "id": "104",
     "data_id": "#detail663",
     "asal_pemohon": "Kabupaten Cilacap",
     "nama_kegiatan": "Latsar CPNS Gol. II Kab. Cilacap Pola Kerjasama Angkatan ke-14 Periode 7 Februari s.d. 8 Mei 2023",
@@ -2392,7 +2392,7 @@
     "link_laporan": ""
   },
   {
-    "no": "105",
+    "id": "105",
     "data_id": "#detail661",
     "asal_pemohon": "Kabupaten Cilacap",
     "nama_kegiatan": "Latsar CPNS Gol. III Kab. Cilacap Pola Kerjasama Angkatan ke-11 Periode 24 Januari s.d. 15 April 2023",
@@ -2415,7 +2415,7 @@
     "link_laporan": ""
   },
   {
-    "no": "106",
+    "id": "106",
     "data_id": "#detail660",
     "asal_pemohon": "Universitas Semarang",
     "nama_kegiatan": "Bimbingan Teknis DPRD Kota Magelang",
@@ -2438,7 +2438,7 @@
     "link_laporan": "https://simitra.bpsdmd.jatengprov.go.id/assets/file_laporan/file_1673488273.pdf"
   },
   {
-    "no": "107",
+    "id": "107",
     "data_id": "#detail659",
     "asal_pemohon": "Kabupaten Cilacap",
     "nama_kegiatan": "Latsar CPNS Gol. III Kab. Cilacap Pola Kerjasama Angkatan ke-10 Periode 18 Januari s.d. 10 April 2023",
