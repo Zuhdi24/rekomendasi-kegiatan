@@ -1,6 +1,6 @@
 [
   {
-    "no": 1,
+    "id": 1,
     "data_id": "#id",
     "asal_pemohon": "Universitas 17 Agustus",
     "total_pengajuan": "30",
@@ -20,7 +20,7 @@
     "lokakarya": "0"
   },
   {
-    "no": 1,
+    "id": 1,
     "data_id": "#id",
     "asal_pemohon": "Kabupaten Banyumas",
     "total_pengajuan": "18",
@@ -40,7 +40,7 @@
     "lokakarya": "0"
   },
   {
-    "no": 1,
+    "id": 1,
     "data_id": "#id",
     "asal_pemohon": "Kota Semarang",
     "total_pengajuan": "12",
@@ -60,7 +60,7 @@
     "lokakarya": "0"
   },
   {
-    "no": 1,
+    "id": 1,
     "data_id": "#id",
     "asal_pemohon": "Kabupaten Cilacap",
     "total_pengajuan": "9",
@@ -80,7 +80,7 @@
     "lokakarya": "0"
   },
   {
-    "no": 1,
+    "id": 1,
     "data_id": "#id",
     "asal_pemohon": "Universitas Semarang",
     "total_pengajuan": "8",
@@ -100,7 +100,7 @@
     "lokakarya": "0"
   },
   {
-    "no": 1,
+    "id": 1,
     "data_id": "#id",
     "asal_pemohon": "Kabupaten Wonogiri",
     "total_pengajuan": "6",
@@ -120,7 +120,7 @@
     "lokakarya": "0"
   },
   {
-    "no": 1,
+    "id": 1,
     "data_id": "#id",
     "asal_pemohon": "Kota Salatiga",
     "total_pengajuan": "4",
@@ -140,7 +140,7 @@
     "lokakarya": "0"
   },
   {
-    "no": 1,
+    "id": 1,
     "data_id": "#id",
     "asal_pemohon": "Universitas STIKUBANK",
     "total_pengajuan": "3",
@@ -160,7 +160,7 @@
     "lokakarya": "0"
   },
   {
-    "no": 1,
+    "id": 1,
     "data_id": "#id",
     "asal_pemohon": "Kabupaten Purbalingga",
     "total_pengajuan": "3",
@@ -180,7 +180,7 @@
     "lokakarya": "0"
   },
   {
-    "no": 1,
+    "id": 1,
     "data_id": "#id",
     "asal_pemohon": "Kabupaten Jepara",
     "total_pengajuan": "1",
@@ -200,7 +200,7 @@
     "lokakarya": "0"
   },
   {
-    "no": 1,
+    "id": 1,
     "data_id": "#id",
     "asal_pemohon": "Kabupaten Sukoharjo",
     "total_pengajuan": "1",
@@ -220,7 +220,7 @@
     "lokakarya": "0"
   },
   {
-    "no": 1,
+    "id": 1,
     "data_id": "#id",
     "asal_pemohon": "Universitas Muhamadiyah Surakarta",
     "total_pengajuan": "1",
@@ -240,7 +240,7 @@
     "lokakarya": "0"
   },
   {
-    "no": 1,
+    "id": 1,
     "data_id": "#id",
     "asal_pemohon": "Universitas Wahid Hasyim",
     "total_pengajuan": "1",
@@ -260,7 +260,7 @@
     "lokakarya": "0"
   },
   {
-    "no": 1,
+    "id": 1,
     "data_id": "#id",
     "asal_pemohon": "Kabupaten Blora",
     "total_pengajuan": "1",
@@ -280,7 +280,7 @@
     "lokakarya": "0"
   },
   {
-    "no": 1,
+    "id": 1,
     "data_id": "#id",
     "asal_pemohon": "Kabupaten Brebes",
     "total_pengajuan": "1",
@@ -300,7 +300,7 @@
     "lokakarya": "0"
   },
   {
-    "no": 1,
+    "id": 1,
     "data_id": "#id",
     "asal_pemohon": "Partai Nasdem",
     "total_pengajuan": "1",
@@ -320,7 +320,7 @@
     "lokakarya": "0"
   },
   {
-    "no": 1,
+    "id": 1,
     "data_id": "#id",
     "asal_pemohon": "Universitas AKI",
     "total_pengajuan": "1",
@@ -340,7 +340,7 @@
     "lokakarya": "0"
   },
   {
-    "no": 1,
+    "id": 1,
     "data_id": "#id",
     "asal_pemohon": "PPP",
     "total_pengajuan": "1",
@@ -360,7 +360,7 @@
     "lokakarya": "0"
   },
   {
-    "no": 1,
+    "id": 1,
     "data_id": "#id",
     "asal_pemohon": "PKB",
     "total_pengajuan": "1",
@@ -380,7 +380,7 @@
     "lokakarya": "0"
   },
   {
-    "no": 1,
+    "id": 1,
     "data_id": "#id",
     "asal_pemohon": "Kota Surakarta",
     "total_pengajuan": "1",
